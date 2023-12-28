@@ -35,6 +35,8 @@ The dataset had some duplicate entries, which were droped before the analysis. A
 **Modeling and Evaluation**
 
 The XGB model was used as the main predictive model since it had the highest evaluation metric test scores: recall = 0.93%, f1 = 94%, precision = 95%, accuracy = 98%. Below is the confusion matrix for the model:
+
+
 ![image](https://github.com/aliyevgursel/Employee-Turnover-Project/assets/68837397/7614be1f-5128-4110-953c-1864df02a17f)
 
 
